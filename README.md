@@ -23,19 +23,7 @@
 ![控制台输出](images/2-4.PNG)
 
 
-## 数据库切换
 
-#### 整个项目切换
-
-修改web.xml文件，参数为（sqlite，mysql）
-
-![切换](images/3-4.PNG)
-
-#### 测试代码切换
-
-修改测试类注解，参数为（sqlite，mysql）
-
-![切换](images/3-5.PNG)
 
 
 
